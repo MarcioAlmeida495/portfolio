@@ -1,0 +1,9 @@
+.hover-element{
+    color: black;
+    text-decoration: none;
+    transition: transform 200ms ease-in-out;
+}
+
+.hover-element:hover {
+    transform: scale(1.05);
+}
